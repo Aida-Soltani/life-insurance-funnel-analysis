@@ -17,3 +17,4 @@ Strategic hypotheses and recommendations for product and marketing teams to opti
 **Phone_connect** : Once a customer submits an application, the app is routed to a live insurance agent to call them and collect more detailed information to move them forward with the life insurance process.
 **Sign_and_exam**   For this purpose, this is the last step to analyze. This represents acustomer moving forward the life insurance process and scheduling a medical exam.
 
+
